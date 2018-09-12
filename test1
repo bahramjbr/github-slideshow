@@ -1,1 +1,5 @@
 print('is this python?')
+
+class First:
+	pass
+print('hello world')
